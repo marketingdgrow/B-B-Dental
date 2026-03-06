@@ -19,7 +19,7 @@ const Navbar = () => {
           <nav className="hidden lg:flex">
             <ul className="text-white/90 flex gap-4 font-semibold text-sm">
               <li>
-                <Link to="https://sivamani1812.github.io/MarksBiotech/">
+                <Link to="https://marketingdgrow.github.io/Marksbiotech/">
                   HIGHLIGHTS
                 </Link>
               </li>
@@ -74,7 +74,7 @@ const Navbar = () => {
           <nav className="w-[90%] h-[80vh] mx-auto py-4">
             <ul className="text-white/90 flex flex-col gap-10 font-semibold">
               <li>
-                <Link to="https://sivamani1812.github.io/MarksBiotech/">
+                <Link to="https://marketingdgrow.github.io/Marksbiotech/">
                   HIGHLIGHTS
                 </Link>
               </li>
